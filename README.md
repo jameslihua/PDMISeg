@@ -5,7 +5,7 @@ The test results on the ADNI1 dataset can be obtained using the test_adni.py fil
 
 Start the testing process in just three steps.
 
-First, download the ADNI1 dataset from Google Drive. Unzip the compressed file to obtain the dataset, then place the dataset into the dataset directory while maintaining the directory structure dataset/ADNI/ADNI1-M-TRAIN. 
+First, download the ADNI1 dataset from Google Drive(https://drive.google.com/drive/folders/1cu-XL9Ju5YTn6N6OTuhSctNoBLbIeA6c?usp=sharing). Unzip the compressed file to obtain the dataset, then place the dataset into the dataset directory while maintaining the directory structure dataset/ADNI/ADNI1-M-TRAIN. 
 
 Similarly, place the other files in the same manner as the ADNI1-M-TRAIN.
 
