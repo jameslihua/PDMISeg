@@ -17,13 +17,11 @@ Place the Generator40000.pth inside the snapshots-adni/ directory of this projec
 
 Third, run test_adni.py
 
-"`
 | PDMISeg   | L_HPC    | R_HPC   |
 | --- | --- | --- |
 | DSC%  | 88.91 | 88.51 |
 | Jaccard%  | 80.31 | 79.78  |
 | Recall%  | 89.47 | 88.94 |
-"`
 
 
 
