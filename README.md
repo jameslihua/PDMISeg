@@ -1,5 +1,5 @@
-# Prompt-CLIP-3V3D
-The code for 'Prompt CLIP-3V3D: Prompt-Driven 3D Medical Image Segmentation Model'
+# PDMISeg
+The code for 'PDMISeg: Prompt-Driven 3D Medical Image Segmentation Model'
 
 The test results on the ADNI1 dataset can be obtained using the test_adni.py file.
 
